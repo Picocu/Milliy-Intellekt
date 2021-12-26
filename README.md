@@ -33,7 +33,7 @@
     <img src="images/logo.jpg" alt="Logo" width="300" height="300">
   </a>
 
-<h3 align="center">project_title</h3>
+<h3 align="center">Buyurtma.i</h3>
 
   <p align="center">
     project_description
