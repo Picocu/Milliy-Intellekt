@@ -63,6 +63,20 @@
 <!-- ABOUT THE PROJECT -->
 ## DASTUR HAQIDA QISQACHA
 
+<div>
+  <div id="banner">
+    <div class="inline-block">
+        <img src ="images/test1.jpg">
+    </div>
+
+    <div class="inline-block">
+        <img src ="images/test1.jpg">
+    </div>
+
+    <div class="inline-block">
+        <img src ="images/test1.jpg">
+    </div>
+</div>
 
 <div class="row" style="display:flex">
   <div class="column" style = "flex: 33.33%;padding: 5px;">
