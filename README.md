@@ -75,6 +75,6 @@
 
 <div>
     <div class="inline-block">
-        <img src ="images/test1.jpg" style="width:20%">
+        <img src ="images/Untitled design.png style="width:20%">
     </div>
 </div>
