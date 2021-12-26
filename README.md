@@ -63,7 +63,6 @@
 <!-- ABOUT THE PROJECT -->
 ## DASTUR HAQIDA QISQACHA
 
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
 
 
 
