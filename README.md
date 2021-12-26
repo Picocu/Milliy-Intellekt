@@ -66,13 +66,13 @@
 
 <div class="row">
   <div class="column">
-    <img src="images/test1.jpg" alt="Snow" style="width:100%">
+    <img src="images/test1.jpg" alt="Snow" style="width:20%">
   </div>
   <div class="column">
-    <img src="images/test2.jpg" alt="Forest" style="width:100%">
+    <img src="images/test2.jpg" alt="Forest" style="width:20%">
   </div>
   <div class="column">
-    <img src="images/test3.jpg" alt="Mountains" style="width:100%">
+    <img src="images/test3.jpg" alt="Mountains" style="width:20%">
   </div>
 </div>
 
