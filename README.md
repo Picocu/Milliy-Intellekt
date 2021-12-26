@@ -64,7 +64,7 @@
 ## DASTUR HAQIDA QISQACHA
 
 
-<div class="row">
+<div class="row" style="display:flex">
   <div class="column">
     <img src="images/test1.jpg" alt="Snow" style="width:20%">
   </div>
@@ -75,18 +75,4 @@
     <img src="images/test3.jpg" alt="Mountains" style="width:20%">
   </div>
 </div>
-
-.column {
-  float: left;
-  width: 33.33%;
-  padding: 5px;
-}
-
-/* Clear floats after image containers */
-.row::after {
-  content: "";
-  clear: both;
-  display: table;
-}
-
 
