@@ -65,13 +65,13 @@
 
 
 <div class="row" style="display:flex">
-  <div class="column">
+  <div class="column" style = "flex: 33.33%;padding: 5px;">
     <img src="images/test1.jpg" alt="Snow" style="width:20%">
   </div>
-  <div class="column">
+  <div class="column" style = "flex: 33.33%;padding: 5px;">
     <img src="images/test2.jpg" alt="Forest" style="width:20%">
   </div>
-  <div class="column">
+  <div class="column" style = "flex: 33.33%;padding: 5px;">
     <img src="images/test3.jpg" alt="Mountains" style="width:20%">
   </div>
 </div>
