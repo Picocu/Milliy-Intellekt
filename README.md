@@ -64,7 +64,17 @@
 ## DASTUR HAQIDA QISQACHA
 
 
-
+<div class="row">
+  <div class="column">
+    <img src="test1.jpg" alt="Snow" style="width:100%">
+  </div>
+  <div class="column">
+    <img src="test2.jpg" alt="Forest" style="width:100%">
+  </div>
+  <div class="column">
+    <img src="test3.jpg" alt="Mountains" style="width:100%">
+  </div>
+</div>
 
 
 
