@@ -70,23 +70,12 @@
     </div>
 
     <div class="inline-block">
-        <img src ="images/test1.jpg" style="width:20%">
+        <img src ="images/test2.jpg" style="width:20%">
     </div>
 
     <div class="inline-block">
-        <img src ="images/test1.jpg" style="width:20%">
+        <img src ="images/test3.jpg" style="width:20%">
     </div>
 </div>
 
-<div class="row" style="display:flex">
-  <div class="column" style = "flex: 33.33%;padding: 5px;">
-    <img src="images/test1.jpg" alt="Snow" style="width:20%">
-  </div>
-  <div class="column" style = "flex: 33.33%;padding: 5px;">
-    <img src="images/test2.jpg" alt="Forest" style="width:20%">
-  </div>
-  <div class="column" style = "flex: 33.33%;padding: 5px;">
-    <img src="images/test3.jpg" alt="Mountains" style="width:20%">
-  </div>
-</div>
 
