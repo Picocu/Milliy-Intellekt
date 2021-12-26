@@ -78,4 +78,12 @@
     </div>
 </div>
 
-
+<div>
+  <div class="row">
+   <div class="column">
+      <img src ="images/test2.jpg" style="width:20%">
+   </div>
+   <div class="column">
+      <img src ="images/test3.jpg" style="width:20%">
+   </div>
+</div>
