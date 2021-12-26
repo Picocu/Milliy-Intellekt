@@ -64,6 +64,6 @@
 
 <div>
     <div class="inline-block">
-        <img src ="images/desgin.png width="20%" height="20%">
+        <img src ="images/desgin.png">
     </div>
 </div>
