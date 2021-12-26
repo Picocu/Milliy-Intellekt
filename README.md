@@ -30,17 +30,6 @@
 
 </div>
 
-<table>
-  <tbody>
-    <tr><td><img src="images/test1.jpg" alt="Logo" style="width:20%" />FIRST</td></tr>
-</tbody>
-  <tbody>
-    <tr><td><img src="images/test2.jpg" alt="Logo" style="width:20%" />SECOND</td></tr>
-</tbody>
-  <tbody>
-    <tr><td><img src="images/test3.jpg" alt="Logo" style="width:20%" />THIRD</td></tr>
-</tbody>
-</table>
 
 <!-- TABLE OF CONTENTS -->
 <details>
@@ -75,6 +64,6 @@
 
 <div>
     <div class="inline-block">
-        <img src ="images/Untitled design.png style="width:20%">
+        <img src ="images/desgin.png width="20%" height="20%">
     </div>
 </div>
