@@ -30,7 +30,17 @@
 
 </div>
 
-
+<table>
+  <tbody>
+    <tr><td><img src="images/test1.jpg" alt="Logo" style="width:20%" />FIRST</td></tr>
+</tbody>
+  <tbody>
+    <tr><td><img src="images/test2.jpg" alt="Logo" style="width:20%" />SECOND</td></tr>
+</tbody>
+  <tbody>
+    <tr><td><img src="images/test3.jpg" alt="Logo" style="width:20%" />THIRD</td></tr>
+</tbody>
+</table>
 
 <!-- TABLE OF CONTENTS -->
 <details>
