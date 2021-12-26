@@ -61,9 +61,9 @@
 
 <!-- ABOUT THE PROJECT -->
 ## DASTUR HAQIDA QISQACHA
-<h2>
+<h4>
   Sun'iy intellektdan foydalangan holda turli buyurtmalarni osonlashtirish va rivojlantirish. Dastur restoranlar bo'ylab o'zingiz xohlagan ovqatni ovozingiz yordamida buyurtma berishga yordam beradi.
-</h2>
+</h4>
 <div>
     <div class="inline-block">
         <img src ="images/desgin.png">
